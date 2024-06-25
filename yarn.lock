@@ -4575,6 +4575,7 @@ __metadata:
     "@types/react": "npm:^18.2.66"
     "@types/react-dom": "npm:^18.2.22"
     "@vitejs/plugin-react": "npm:^4.2.1"
+    common: "workspace:^"
     eslint: "npm:^8.57.0"
     eslint-plugin-react: "npm:^7.34.1"
     eslint-plugin-react-hooks: "npm:^4.6.0"
@@ -9949,12 +9950,14 @@ __metadata:
     "@types/react": "npm:^18.2.66"
     "@types/react-dom": "npm:^18.2.22"
     "@vitejs/plugin-react": "npm:^4.2.1"
+    common: "workspace:^"
     eslint: "npm:^8.57.0"
     eslint-plugin-react: "npm:^7.34.1"
     eslint-plugin-react-hooks: "npm:^4.6.0"
     eslint-plugin-react-refresh: "npm:^0.4.6"
     react: "npm:^18.2.0"
     react-dom: "npm:^18.2.0"
+    uikit: "workspace:^"
     vite: "npm:^5.2.0"
   languageName: unknown
   linkType: soft

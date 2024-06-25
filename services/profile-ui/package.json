@@ -10,9 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "common": "workspace:^",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "common": "workspace:^",
     "uikit": "workspace:^"
   },
   "devDependencies": {
